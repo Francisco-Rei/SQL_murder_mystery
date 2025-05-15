@@ -1,5 +1,6 @@
 # SQL_murder_mystery
 This is a challenge from [Summer of SQL](https://github.com/wjsutton/the_summer_of_sql) to help gain skills and confidence in SQL.
+
 Skills tested in challenge 1:
  - Filtering with WHERE
  - JOINing tables
